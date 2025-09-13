@@ -1,6 +1,2 @@
-# greentheblaze-vs-code-theme
-
-## Introduction
-This is just the repository that stores my Visual Studio Code I guess. Feel free to use it as it is open-sourced, however credit would be nice anyhow if you can give me any.
-
-**Enjoy!**
+# Focus One
+A minimalist, high-contrast Visual Studio Code theme that improves readability and reduces eye strain.
