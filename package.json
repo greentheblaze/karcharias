@@ -3,6 +3,7 @@
   "displayName": "Karcharias",
   "description": "",
   "version": "0.1.0",
+  "publisher": "greentheblaze",
   "engines": {
     "vscode": "^1.100.0"
   },
