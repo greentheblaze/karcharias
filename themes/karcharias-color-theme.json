@@ -26,15 +26,12 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#61afef",
+        "foreground": "#61afef"
       }
     },
     {
       "name": "operator",
-      "scope": [
-        "keyword.operator",
-        "punctuation.separator.arguments"
-      ],
+      "scope": ["keyword.operator", "punctuation.separator.arguments"],
       "settings": {
         "foreground": "#698A99",
         "fontStyle": "italic"
@@ -42,19 +39,14 @@
     },
     {
       "name": "separator",
-      "scope": [
-        "punctuation.separator.arguments"
-      ],
+      "scope": ["punctuation.separator.arguments"],
       "settings": {
         "foreground": "#698A99",
         "fontStyle": "bold"
       }
     },
     {
-      "scope": [
-        "variable.language",
-        "variable.other.property"
-      ],
+      "scope": ["variable.language", "variable.other.property"],
       "settings": {
         "foreground": "#FF9DA4"
       }
@@ -68,20 +60,14 @@
     },
     {
       "name": "variable identifiers",
-      "scope": [
-        "variable.other.readwrite",
-        "entity.name.function"
-      ],
+      "scope": ["variable.other.readwrite", "entity.name.function"],
       "settings": {
         "foreground": "#cfe4ff"
       }
     },
     {
       "name": "variable parameters",
-      "scope": [
-        "variable.parameter",
-        "variable.parameter.function"
-      ],
+      "scope": ["variable.parameter", "variable.parameter.function"],
       "settings": {
         "foreground": "#cfe4ff",
         "fontStyle": "italic"
@@ -111,8 +97,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#a494ff",
-        "fontStyle": "normal"
+        "foreground": "#a494ff"
       }
     },
     {
@@ -159,10 +144,7 @@
     },
     {
       "name": "Booleans",
-      "scope": [
-        "constant.language.boolean",
-        "constant.language.nil"
-      ],
+      "scope": ["constant.language.boolean", "constant.language.nil"],
       "settings": {
         "foreground": "#e5a970"
       }
