@@ -1,6 +1,6 @@
 {
-  "name": "greentheblaze-vs-code-theme",
-  "displayName": "GreenTheBlaze VS Code Theme",
+  "name": "karcharias",
+  "displayName": "Karcharias",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "GreenTheBlaze VS Code Theme",
+        "label": "Karcharias",
         "uiTheme": "vs-dark",
-        "path": "./themes/GreenTheBlaze VS Code Theme-color-theme.json"
+        "path": "./themes/karcharias-color-theme.json"
       }
     ]
   }
